@@ -34,15 +34,15 @@ no_question_mark_df = english_data_10000_df[english_data_10000_df.content.str.ma
 # count the number of tweets without question marks. there are exactly 4802 such tweets.
 count_q_mark = english_data_10000_df.content.str.match(
     '^((?!\?).)*$').value_counts()
-print(count_q_mark)
+# print(count_q_mark)
 
 
 # create a new column with trump_mentions
 annotated_df = no_question_mark_df
 annotated_df['trump_mention'] = annotated_df.content.str.contains(
-    '(?<![a-zA-Z0-9])Trump(?![a-zA-Z0-9])')
+    '(?<![a-zA-Z0-9])Trump(?![a-zA-Z0-9])').map({True: "T", False: "F"})
 
-# print(annotated_df)
+# print(annotated_df['trump_mention'])
 
 # count the number of tweets with trump_mentions
 count_trump_mention = annotated_df.trump_mention.value_counts()
@@ -59,15 +59,15 @@ annotated_df2.to_csv('dataset.tsv', sep='\t', index=False)
 
 
 # calculate the fraction of tweets that have trump mention
-frac_trump_mentions = count_trump_mention / count_q_mark
+frac_trump_mentions = count_trump_mention['T'] / count_q_mark[True]
 
 
-# print(frac_trump_mentions[True])
+# print(frac_trump_mentions)
 # print(type(frac_trump_mentions[True]))
 
 # truncate the results to 3 decimals
 truncated_frac_trump_mentions = truncate_to_decimal(
-    frac_trump_mentions[True], 3)
+    frac_trump_mentions, 3)
 print(truncated_frac_trump_mentions)
 
 
