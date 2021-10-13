@@ -1,0 +1,1 @@
+sh stats.sh sample.csv
