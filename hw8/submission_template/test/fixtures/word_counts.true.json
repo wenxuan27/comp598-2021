@@ -1,0 +1,15 @@
+{
+	"twilight sparkle":{
+		"hello": 6,
+		"please": 5
+	},
+	"fluttershy": {
+        "hello": 5,
+		"okie": 5
+
+	},
+	"rarity": {},
+	"applejack": {}, 
+	"pinkie pie": {}, 
+	"rainbow dash": {}
+}

@@ -1,0 +1,181 @@
+{
+  "kind": "t3",
+  "data": {
+    "approved_at_utc": null,
+    "subreddit": "funny",
+    "selftext": "",
+    "author_fullname": "t2_865x424",
+    "saved": false,
+    "mod_reason_title": null,
+    "gilded": 0,
+    "clicked": false,
+    "title": "I see you choosing the hard way",
+    "link_flair_richtext": [],
+    "subreddit_name_prefixed": "r/funny",
+    "hidden": false,
+    "pwls": 6,
+    "link_flair_css_class": null,
+    "downs": 0,
+    "thumbnail_height": 78,
+    "top_awarded_type": null,
+    "hide_score": true,
+    "name": "t3_jirz0x",
+    "quarantine": false,
+    "link_flair_text_color": "dark",
+    "upvote_ratio": 1.0,
+    "author_flair_background_color": null,
+    "subreddit_type": "public",
+    "ups": 1,
+    "total_awards_received": 0,
+    "media_embed": {},
+    "thumbnail_width": 140,
+    "author_flair_template_id": null,
+    "is_original_content": false,
+    "user_reports": [],
+    "secure_media": {
+      "reddit_video": {
+        "fallback_url": "https://v.redd.it/0o0cp0yuijv51/DASH_1080.mp4?source=fallback",
+        "height": 750,
+        "width": 1334,
+        "scrubber_media_url": "https://v.redd.it/0o0cp0yuijv51/DASH_96.mp4",
+        "dash_url": "https://v.redd.it/0o0cp0yuijv51/DASHPlaylist.mpd?a=1606354241%2CNjkwMzliMjhiNWM5YjczZWU3ZDBkNTAzZjIzZmYwZjBjM2YwMWEyNDBkMjAxMTIyZDhkYzBiNGMzMDA2ZmVlOA%3D%3D&amp;v=1&amp;f=sd",
+        "duration": 10,
+        "hls_url": "https://v.redd.it/0o0cp0yuijv51/HLSPlaylist.m3u8?a=1606354241%2CYTliZDRkMTEzZDAzYTQ1OTRjNDRkY2QzNTA2NTc4YjM4ZTA3YTA2MzZlNmExZjU4ZDliMzU0OWM1YzI3NzNlMA%3D%3D&amp;v=1&amp;f=sd",
+        "is_gif": false,
+        "transcoding_status": "completed"
+      }
+    },
+    "is_reddit_media_domain": true,
+    "is_meta": false,
+    "category": null,
+    "secure_media_embed": {},
+    "link_flair_text": null,
+    "can_mod_post": false,
+    "score": 1,
+    "approved_by": null,
+    "author_premium": false,
+    "thumbnail": "https://b.thumbs.redditmedia.com/ALCotJyFrIi9wS5x6GuKS68AR9HlEL0rWgZwq1lZJwQ.jpg",
+    "edited": false,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "gildings": {},
+    "post_hint": "hosted:video",
+    "content_categories": null,
+    "is_self": false,
+    "mod_note": null,
+    "created": 1603790998.0,
+    "link_flair_type": "text",
+    "wls": 6,
+    "removed_by_category": null,
+    "banned_by": null,
+    "author_flair_type": "text",
+    "domain": "v.redd.it",
+    "allow_live_comments": false,
+    "selftext_html": null,
+    "likes": null,
+    "suggested_sort": null,
+    "banned_at_utc": null,
+    "url_overridden_by_dest": "https://v.redd.it/0o0cp0yuijv51",
+    "view_count": null,
+    "archived": false,
+    "no_follow": true,
+    "is_crosspostable": true,
+    "pinned": false,
+    "over_18": false,
+    "preview": {
+      "images": [
+        {
+          "source": {
+            "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?format=pjpg&amp;auto=webp&amp;s=2ea23efa8928e06ee7bf4cb1587ccb889dcd4537",
+            "width": 1334,
+            "height": 750
+          },
+          "resolutions": [
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=34c147ede62f43fbd8111540968669c86079d012",
+              "width": 108,
+              "height": 60
+            },
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=32401a3df82da4d6e4aeb8a7ff54e4724d12b01a",
+              "width": 216,
+              "height": 121
+            },
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=67014897ae05ecad8e2ffcf84fd83838ab6464db",
+              "width": 320,
+              "height": 179
+            },
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=8d971a685c15b1881d836de36b50de4edbfd2c3d",
+              "width": 640,
+              "height": 359
+            },
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=9d5a645033df4957f01b7424338a955f33752a07",
+              "width": 960,
+              "height": 539
+            },
+            {
+              "url": "https://external-preview.redd.it/HzkAPzQZkuuKJQjYr6NmWT5joGlv4uaRA5QODrR5N1o.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=466bdd465b9cd3c0b9f92f143c6a37ce226e4b46",
+              "width": 1080,
+              "height": 607
+            }
+          ],
+          "variants": {},
+          "id": "I9Iw5t-yZc87ZZr4OUt22NZFpyZ-fcqvN8bXsPDrUPU"
+        }
+      ],
+      "enabled": false
+    },
+    "all_awardings": [],
+    "awarders": [],
+    "media_only": false,
+    "can_gild": true,
+    "spoiler": false,
+    "locked": false,
+    "author_flair_text": null,
+    "treatment_tags": [],
+    "visited": false,
+    "removed_by": null,
+    "num_reports": null,
+    "distinguished": null,
+    "subreddit_id": "t5_2qh33",
+    "mod_reason_by": null,
+    "removal_reason": null,
+    "link_flair_background_color": "",
+    "id": "jirz0x",
+    "is_robot_indexable": true,
+    "report_reasons": null,
+    "author": "Jan_a_gamer",
+    "discussion_type": null,
+    "num_comments": 0,
+    "send_replies": true,
+    "whitelist_status": "all_ads",
+    "contest_mode": false,
+    "mod_reports": [],
+    "author_patreon_flair": false,
+    "author_flair_text_color": null,
+    "permalink": "/r/funny/comments/jirz0x/i_see_you_choosing_the_hard_way/",
+    "parent_whitelist_status": "all_ads",
+    "stickied": false,
+    "url": "https://v.redd.it/0o0cp0yuijv51",
+    "subreddit_subscribers": 33837625,
+    "created_utc": 1603762198.0,
+    "num_crossposts": 0,
+    "media": {
+      "reddit_video": {
+        "fallback_url": "https://v.redd.it/0o0cp0yuijv51/DASH_1080.mp4?source=fallback",
+        "height": 750,
+        "width": 1334,
+        "scrubber_media_url": "https://v.redd.it/0o0cp0yuijv51/DASH_96.mp4",
+        "dash_url": "https://v.redd.it/0o0cp0yuijv51/DASHPlaylist.mpd?a=1606354241%2CNjkwMzliMjhiNWM5YjczZWU3ZDBkNTAzZjIzZmYwZjBjM2YwMWEyNDBkMjAxMTIyZDhkYzBiNGMzMDA2ZmVlOA%3D%3D&amp;v=1&amp;f=sd",
+        "duration": 10,
+        "hls_url": "https://v.redd.it/0o0cp0yuijv51/HLSPlaylist.m3u8?a=1606354241%2CYTliZDRkMTEzZDAzYTQ1OTRjNDRkY2QzNTA2NTc4YjM4ZTA3YTA2MzZlNmExZjU4ZDliMzU0OWM1YzI3NzNlMA%3D%3D&amp;v=1&amp;f=sd",
+        "is_gif": false,
+        "transcoding_status": "completed"
+      }
+    },
+    "is_video": true
+  }
+}
